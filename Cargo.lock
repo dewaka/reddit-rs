@@ -354,7 +354,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "reddit"
+name = "reddit-rs"
 version = "0.1.0"
 dependencies = [
  "futures 0.1.18 (registry+https://github.com/rust-lang/crates.io-index)",
